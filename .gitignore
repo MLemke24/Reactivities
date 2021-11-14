@@ -334,7 +334,7 @@ tasks.json
 
 react-app/log.txt
 
-API/Migrations
+Persistence/Migrations
 
 API/appsettings.json
 
