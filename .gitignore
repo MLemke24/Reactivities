@@ -352,3 +352,5 @@ messageHtml.html
 # Begin mobile ignore stuff
 **/.DS_Store
 # End mobile ignore stuff
+package-lock.json
+node_modules
